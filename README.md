@@ -1,3 +1,3 @@
-# react-wic1rb
+# react-excel
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-wic1rb)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/sam-react-excel)
